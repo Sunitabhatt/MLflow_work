@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/339332771174172538/43a903d4ad0a4ebaa8dd5ab20ff2be28/artifacts
+end_time: 1747736586274
+entry_point_name: ''
+experiment_id: '339332771174172538'
+lifecycle_stage: active
+run_id: 43a903d4ad0a4ebaa8dd5ab20ff2be28
+run_name: crawling-snake-281
+run_uuid: 43a903d4ad0a4ebaa8dd5ab20ff2be28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747736579072
+status: 3
+tags: []
+user_id: Sunita

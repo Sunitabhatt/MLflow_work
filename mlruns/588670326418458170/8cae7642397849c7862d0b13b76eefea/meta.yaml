@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/588670326418458170/8cae7642397849c7862d0b13b76eefea/artifacts
+end_time: 1747310788955
+entry_point_name: ''
+experiment_id: '588670326418458170'
+lifecycle_stage: active
+run_id: 8cae7642397849c7862d0b13b76eefea
+run_name: persistent-loon-592
+run_uuid: 8cae7642397849c7862d0b13b76eefea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747310788869
+status: 3
+tags: []
+user_id: Sunita

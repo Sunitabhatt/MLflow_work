@@ -1,0 +1,13 @@
+prefix=S:/Coding_sunita/MLflow/venv/Library
+exec_prefix=S:/Coding_sunita/MLflow/venv/Library
+libdir=S:/Coding_sunita/MLflow/venv/Library/lib
+sharedlibdir=S:/Coding_sunita/MLflow/venv/Library/lib
+includedir=S:/Coding_sunita/MLflow/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

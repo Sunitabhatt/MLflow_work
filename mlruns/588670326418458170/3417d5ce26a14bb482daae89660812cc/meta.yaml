@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/588670326418458170/3417d5ce26a14bb482daae89660812cc/artifacts
+end_time: 1747310684934
+entry_point_name: ''
+experiment_id: '588670326418458170'
+lifecycle_stage: active
+run_id: 3417d5ce26a14bb482daae89660812cc
+run_name: delicate-hawk-136
+run_uuid: 3417d5ce26a14bb482daae89660812cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747310684857
+status: 3
+tags: []
+user_id: Sunita

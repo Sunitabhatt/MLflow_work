@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747736586256
+current_stage: None
+description: ''
+last_updated_timestamp: 1747736586256
+name: tracking leadboard
+run_id: 43a903d4ad0a4ebaa8dd5ab20ff2be28
+run_link: ''
+source: mlflow-artifacts:/339332771174172538/43a903d4ad0a4ebaa8dd5ab20ff2be28/artifacts/iris_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/339332771174172538/43a903d4ad0a4ebaa8dd5ab20ff2be28/artifacts/iris_model
+user_id: null
+version: 1
